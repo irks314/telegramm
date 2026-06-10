@@ -1,4 +1,3 @@
-# telegramm
 
 <!DOCTYPE html>
 <html>
@@ -138,7 +137,7 @@ rgin-top: 20px; font-size: 14px;" id="jokeReveal"></div>
             `;
             // Через 2 секунды показываем, что это шутка
             setTimeout(function() {
-                document.getElementById('jokeReveal').innerHTML = 'ШУТКА! 😂 Ничего не случилось. Это пранк от [Твоё имя]';
+                document.getElementById('jokeReveal').innerHTML = 'А не надо было по ссылкам переходить!!';
             }, 2000);
         };
     </script>
